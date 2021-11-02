@@ -3,3 +3,6 @@ Might need changed a bit for gitlab / my "config"
 
 # my-dotfiles
 Tasty selection of dotfiles, with all of git (&amp; the readme) in the .my-dotfiles directory.
+
+
+ALL CREDIT GOES TO THE  OG
