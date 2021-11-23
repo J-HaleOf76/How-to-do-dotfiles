@@ -2,9 +2,9 @@
 
 ## Setup
 ```sh
-git init --bare $HOME/.my-dotfiles
-alias mydotfiles='git --git-dir=$HOME/.my-dotfiles/ --work-tree=$HOME'
-mydotfiles remote add origin git@github.com:Siilwyn/my-dotfiles.git
+git init --bare $HOME/.cfg
+alias config='git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
+config remote add origin git@github.com:J-HaleOf76/dotfiles.git
 ```
 
 ## Replication
